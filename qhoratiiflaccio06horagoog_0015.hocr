@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./qhoratiiflaccio06horagoog_0015.png"; bbox 0 0 681 1190; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 150 102 601 257">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 150 102 601 257">
+     <span class='ocr_line' id='line_1_1' title="bbox 152 102 531 143; baseline -0.016 -9"><span class='ocrx_word' id='word_1_1' title='bbox 152 108 176 135; x_wconf 84' lang='lat' dir='ltr'>O</span> <span class='ocrx_word' id='word_1_2' title='bbox 189 110 259 143; x_wconf 83' lang='lat' dir='ltr'>longa</span> <span class='ocrx_word' id='word_1_3' title='bbox 276 105 346 133; x_wconf 78' lang='lat' dir='ltr'>Mufis</span> <span class='ocrx_word' id='word_1_4' title='bbox 359 107 453 130; x_wconf 86' lang='lat' dir='ltr'>mitibus</span> <span class='ocrx_word' id='word_1_5' title='bbox 465 106 514 130; x_wconf 77' lang='lat' dir='ltr'>otia</span> <span class='ocrx_word' id='word_1_6' title='bbox 527 102 531 104; x_wconf 55' lang='grc'><strong><em>’</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 150 144 601 180; baseline -0.013 -4"><span class='ocrx_word' id='word_1_7' title='bbox 150 144 279 179; x_wconf 54' lang='grc' dir='ltr'>ΡὲαεΓῑεῐίε,</span> <span class='ocrx_word' id='word_1_8' title='bbox 292 149 357 172; x_wconf 75' lang='lat' dir='ltr'><strong>almi!</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 369 149 408 171; x_wconf 90' lang='lat' dir='ltr'>Sic</span> <span class='ocrx_word' id='word_1_10' title='bbox 418 147 525 180; x_wconf 85' lang='lat' dir='ltr'>precibus</span> <span class='ocrx_word' id='word_1_11' title='bbox 538 147 583 180; x_wconf 83' lang='lat' dir='ltr'>piis</span> <span class='ocrx_word' id='word_1_12' title='bbox 597 156 601 160; x_wconf 65' lang='grc'>’</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 180 189 485 224; baseline -0.016 -7"><span class='ocrx_word' id='word_1_13' title='bbox 180 193 293 224; x_wconf 74' lang='lat' dir='ltr'>Votisque</span> <span class='ocrx_word' id='word_1_14' title='bbox 307 190 403 215; x_wconf 69' lang='lat' dir='ltr'>tutelam</span> <span class='ocrx_word' id='word_1_15' title='bbox 416 189 485 213; x_wconf 85' lang='lat' dir='ltr'>Sidus</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 208 232 572 257; baseline -0.011 0"><span class='ocrx_word' id='word_1_16' title='bbox 208 233 294 257; x_wconf 82' lang='lat' dir='ltr'>Vltima</span> <span class='ocrx_word' id='word_1_17' title='bbox 309 232 358 256; x_wconf 73' lang='lat' dir='ltr'>Vos</span> <span class='ocrx_word' id='word_1_18' title='bbox 370 236 491 255; x_wconf 78' lang='lat' dir='ltr'>veneretur</span> <span class='ocrx_word' id='word_1_19' title='bbox 503 236 572 254; x_wconf 76' lang='lat' dir='ltr'>aetas.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

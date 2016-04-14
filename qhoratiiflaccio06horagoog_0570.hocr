@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./qhoratiiflaccio06horagoog_0570.png"; bbox 0 0 681 1190; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 39 411 557 530">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 39 411 557 530">
+     <span class='ocr_line' id='line_1_1' title="bbox 93 411 465 437; baseline 0 -7"><span class='ocrx_word' id='word_1_1' title='bbox 93 411 118 437; x_wconf 77' lang='lat' dir='ltr'>Q.</span> <span class='ocrx_word' id='word_1_2' title='bbox 148 411 304 430; x_wconf 75' lang='lat' dir='ltr'>HORATII</span> <span class='ocrx_word' id='word_1_3' title='bbox 332 411 465 434; x_wconf 66' lang='lat' dir='ltr'>FLACG1</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 39 466 557 530; baseline 0.002 -16"><span class='ocrx_word' id='word_1_4' title='bbox 39 486 60 514; x_wconf 86' lang='lat' dir='ltr'>c</span> <span class='ocrx_word' id='word_1_5' title='bbox 101 487 130 516; x_wconf 82' lang='lat' dir='ltr'>A</span> <span class='ocrx_word' id='word_1_6' title='bbox 170 487 193 514; x_wconf 88' lang='lat' dir='ltr'>R</span> <span class='ocrx_word' id='word_1_7' title='bbox 233 487 263 514; x_wconf 89' lang='lat' dir='ltr'>M</span> <span class='ocrx_word' id='word_1_8' title='bbox 305 486 317 513; x_wconf 94' lang='lat'>1</span> <span class='ocrx_word' id='word_1_9' title='bbox 360 486 388 515; x_wconf 85' lang='lat' dir='ltr'>N</span> <span class='ocrx_word' id='word_1_10' title='bbox 430 466 557 530; x_wconf 43' lang='lat' dir='ltr'>vm]</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 137 573 427 591">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 137 573 427 591">
+     <span class='ocr_line' id='line_1_3' title="bbox 137 573 427 591; baseline -0.007 0"><span class='ocrx_word' id='word_1_11' title='bbox 137 574 232 591; x_wconf 70' lang='lat' dir='ltr'>LIBER</span> <span class='ocrx_word' id='word_1_12' title='bbox 258 573 427 590; x_wconf 80' lang='lat' dir='ltr'>SECVNDVS.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
